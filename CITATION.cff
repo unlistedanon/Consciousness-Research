@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you refer to this research, cite the working drafts and identify the version or commit used."
+title: "Consciousness Research: URA Hypothesis working drafts"
+type: dataset
+authors:
+  - family-names: Ryan
+    given-names: Joshua
+repository-code: "https://github.com/unlistedanon/Consciousness-Research"
+url: "https://github.com/unlistedanon/Consciousness-Research"
+abstract: >-
+  Exploratory working drafts on understanding, self-reflection and agency as
+  a framework for functional consciousness. Not peer-reviewed; these drafts
+  do not establish that any AI system is conscious. The README discloses AI
+  drafting and research assistance.
